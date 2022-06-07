@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	transportHTTP "github.com/JDoornink/go-rest-api-course/internal/transport/http"
+	transportHTTP "github.com/JDoornink/go-rest-api-course-2/internal/transport/http"
 )
 
 // App - the struct which contains things like
